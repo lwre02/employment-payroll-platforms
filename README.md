@@ -6,6 +6,8 @@ Global employment platforms eliminate entity setup costs averaging $15K-50K per 
 
 Industry-leading global HR platform serving 30,000+ companies across 150+ countries, delivering comprehensive EOR services, contractor management, global payroll, and compliance automation starting at $49/month contractors and $599/month employees with 24/7 support.
 
+<img width="2966" height="1510" alt="image" src="https://github.com/user-attachments/assets/8255036a-c39a-4e3b-a65f-53543bf4d9a6" />
+
 **Official Website:** [deel.com](https://www.deel.com)
 
 - Pricing starts at $49/month contractor management (1,099+ forms, automated invoicing), $325/month Contractor of Record (misclassification protection), $599/month EOR (full employment in 150+ countries), $29/month Global Payroll (100+ countries)
